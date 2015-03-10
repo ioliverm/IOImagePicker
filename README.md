@@ -1,1 +1,6 @@
 # IOImagePicker
+
+Needs:
+
+- AFNetworking
+- libextobj
